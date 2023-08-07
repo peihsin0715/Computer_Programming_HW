@@ -2,7 +2,7 @@
 //  main.c
 //  week2_whatday
 //
-//  Created by 林沛忻 on 2023/8/4.
+//  Created by Pei-Hsin Lin on 2023/8/4.
 //
 
 #include <stdio.h>
